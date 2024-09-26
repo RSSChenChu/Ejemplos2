@@ -1,10 +1,10 @@
 #include <iostream>
-#include <studio.h>
+#include <stdio.h>
 #include <string.h>
 using namespace std;
 
 struct persona {
-    char nombre[30]
+    char nombre[30];
     int edad;
     long telefono;
 };
